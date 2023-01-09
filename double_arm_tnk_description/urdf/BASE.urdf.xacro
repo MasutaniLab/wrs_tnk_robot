@@ -181,9 +181,9 @@
       </geometry>      
     </collision>
     <inertial>
-      <mass value="1e-06" />
-      <origin xyz="0 0 0" rpy="0 -0 0" />
-      <inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />
+      <mass value="445" />
+      <origin xyz="2.61167950E-02 -2.48536360E-01 7.38255770E-05" rpy="0 -0 0" />
+      <inertia ixx="1.17125210E+02" ixy="9.30859190E-01" ixz="7.71323470E-03" iyy="2.13308730E+02" iyz="-4.07759970E-03" izz="1.08880120E+02" />
     </inertial>
   </link>
 
