@@ -49,9 +49,9 @@
       </geometry>
     </collision>
     <inertial>
-      <mass value="455.45935E-3"/>
+      <mass value="455.45935"/>
       <origin rpy="0 -0 0" xyz="7.35035370E-02 1.06590700E-01 1.61371410E-02"/>
-      <inertia ixx="4.19870890E-4" ixy="1.70520040E-5" ixz="-6.24433200E-5" iyy="9.66620960E-4" iyz="-6.61440150E-6" izz="6.14020130E-4"/>
+      <inertia ixx="4.19870890E+01" ixy="1.70520040E+00" ixz="-6.24433200E+00" iyy="9.66620960E+01" iyz="-6.61440150E-01" izz="6.14020130E+01"/>
     </inertial>
   </link>
   <link name="BLOCK">
@@ -303,9 +303,9 @@
       </geometry>
     </collision>
     <inertial>
-      <mass value="535.84647E-3"/>
+      <mass value="535.84647"/>
       <origin rpy="0 -0 0" xyz="8.14422630E-02 1.99598060E-01 2.71745980E-02"/>
-      <inertia ixx="7.97084620E-4" ixy="-8.47185310E-5" ixz="1.11603580E-5" iyy="1.00038320E-3" iyz="5.51320690E-5" izz="6.17888570E-4"/>
+      <inertia ixx="7.97084620E+01" ixy="-8.47185310E+00" ixz="1.11603580E+00" iyy="1.00038320E+02" iyz="5.51320690E+00" izz="6.17888570E+01"/>
     </inertial>
   </link>
   <link name="MNP_SWING">
